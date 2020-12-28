@@ -6,7 +6,7 @@ array = []
 temp_array = []
 mee6 = str(" ")
 spam_text = str(" ")
-repeats = int(0)
+repeats = str(" ")
 pyautogui.FAILSAFE = False
 
 
